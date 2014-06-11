@@ -8,12 +8,12 @@ me at https://github.com/jdzak/git_talk.
 
 1. mkdir simpsons_characters
 2. `touch README.md`
-3. https://github.com/new
+3. `git init`
+4. `git add README.md`
+5. `git commit -m "Added the best simpsons characters"`
+6. `gitx`
+7. https://github.com/new
   * simpsons_characters
-4. `git init`
-5. `git add README.md`
-6. `git commit -m "Added the best simpsons characters"`
-7. `gitx`
 8. `git remote add origin git@github.com:jdzak/simpsons_characters.git`
 9. `git push -u origin master`
 10. `gitx`
