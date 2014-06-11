@@ -3,7 +3,6 @@
 This is an overview of the git version control system for the EDW. You can find
 me at https://github.com/jdzak/git_talk.
 
-
 ## Overview
 
 1. mkdir simpsons_characters
