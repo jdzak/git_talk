@@ -19,7 +19,7 @@ me at https://github.com/jdzak/git_talk.
 11. `git checkout -b side_characters`
 12. `gitx`
 13. `git add README.md`
-14. `git commit -m"Added the best simpsons side characters"
+14. `git commit -m"Added the best simpsons side characters"`
 15. `gitx`
 16. `git checkout master`
 17. `git merge side_characters`
