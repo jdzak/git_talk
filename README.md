@@ -5,7 +5,7 @@ me at https://github.com/jdzak/git_talk.
 
 ## Overview
 
-1. mkdir simpsons_characters
+1. `mkdir simpsons_characters`
 2. `touch README.md`
 3. `git init`
 4. `git add README.md`
