@@ -6,15 +6,25 @@ me at https://github.com/jdzak/git_talk.
 
 ## Overview
 
-1. mkdir git_talk_example
+1. mkdir simpsons_characters
 2. `touch README.md`
 3. https://github.com/new
-  * git_talk_example
+  * simpsons_characters
 4. `git init`
 5. `git add README.md`
 6. `git commit -m "Added the best simpsons characters"`
-7. `git remote add origin git@github.com:jdzak/git_talk_example.git`
-8. `git push -u origin master`
+7. `gitx`
+8. `git remote add origin git@github.com:jdzak/simpsons_characters.git`
+9. `git push -u origin master`
+10. `gitx`
+11. `git checkout -b side_characters`
+12. `gitx`
+13. `git add README.md`
+14. `git commit -m"Added the best simpsons side characters"
+15. `gitx`
+16. `git checkout master`
+17. `git merge side_characters`
+18. `gitx`
 
 ## Git References
 
